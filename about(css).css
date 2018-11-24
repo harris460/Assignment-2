@@ -1,3 +1,12 @@
+.team
+{
+    padding-left: 500px;
+    background-color: #0069d9;
+    ;
+}
+
+
+
 body{
     margin: 0;
     padding: 0;
@@ -13,16 +22,10 @@ header{
     box-sizing: border-box;
 
 }
-@media (max-width: 99px) {
-    header {
-        padding: 0 20px;
-    }
+.imh{
+    background-color: #0069d9;
+    margin-left: -100px
+
 }
 
-footer{
-width: 100%;
-    height: 60px;
-    background: #28a745;
-    bottom: 0;
-    text-align: center;
-}
+
